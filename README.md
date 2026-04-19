@@ -1,4 +1,4 @@
-# Python Teaching Code
+  # elunïa
 This code repository ("repo") contains a variety of starter project code and demo code for showing different capabilities and how to use them in Python. It also contains structured Python tutorials and practice exercises to help you learn and apply your skills.
 
 Begin by forking this repository to your own Github account. Next, you can clone it to your machine and run the examples and customize the code. If you do not fork it first, you will not be able to save changes, as you do not have permission to change this original respository.

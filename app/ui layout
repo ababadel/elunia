@@ -1,0 +1,11 @@
+# Elunïa UI Progress Report (Sprint 2)
+
+### Completed Screens in FlutterFlow:
+1. **Landing Page:** Features the brand identity and entry point for aesthetic selection.
+2. **Aesthetic Quiz:** Implemented input fields for users to define their niche vibe.
+3. **Mood Board Gallery:** A grid layout designed to display generated aesthetic images.
+
+### Design Elements:
+- **Color Palette:** Iridescent purples, soft silvers, and deep blacks for an "Ethereal" tech feel.
+- **Typography:** Using sleek, modern sans-serif fonts to match the 2000s tech aesthetic.
+- **Assets:** Imported logos for 'nëunia' and 'Elunïa' into the media assets folder.

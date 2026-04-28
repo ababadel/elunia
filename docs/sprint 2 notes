@@ -1,0 +1,11 @@
+ELUNÏA - SPRINT 2 LOGS
+Goal: Create the backend logic for style filtering.
+
+Progress:
+- established the python dictionary for aesthetic data.
+- built the logic function to print style recommendations.
+- mapped out the connection between user input and style takeaways.
+
+for Sprint 3:
+- integrate Python logic into the FlutterFlow 
+- begin building the digital closet type database 
